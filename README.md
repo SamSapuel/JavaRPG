@@ -6,10 +6,8 @@ The work is still in progress(actual version is 0.9).
 Screenshots do not show the final quality of the game!
 
 
-1.User manual cz
-
-2.Technical manual cz
-
-3.Other cz
+1. [User manual](https://docs.google.com/document/d/1CgUpIBwVHyU5W5-X0X82YOifMm9D8gkBhZmIf4U1NTQ/edit?usp=sharing) cz
+1. [Technical manual](https://docs.google.com/document/d/1qCR-LWGjebkXADKaxC-qEDguzNLKCSahjwzcbNBll50/edit?usp=sharing) cz
+1. [Other](https://docs.google.com/document/d/1DW1n09w43aSsywqXAuipVL6Eai5Tu1UAsQ3XGkdXc7w/edit?usp=sharing) cz
 
 Created by @SamSapuel
